@@ -8,6 +8,7 @@
   </a>
 </div>
 <br />
+
 - Hardworking and passionate developer. Love building projects ranging from frontend all the way to backend.
 
 - I’m currently working at **BuildUps Consultancy** for over a year as a **Full-Stack Developer and WordPress developer**.
